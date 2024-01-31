@@ -1,6 +1,6 @@
 # UDOs
 A directory for UDOs (file.udo) and examples (file.csd) how to use
-them.
+them. In udo_collection.udo you can find every udo of this repo.
 
 ## Utilities
 
