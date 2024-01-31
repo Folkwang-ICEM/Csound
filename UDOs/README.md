@@ -10,8 +10,10 @@ them.
 ## Synthesizer
 
 ## Instruments
-- sndfl_looper: flexible segment looping of soundfil	
+- sndfl_looper: flexible segment looping of soundfile	
 - sndfl_looper2: like sndfl_looper but with masking of individual
 segments
+- sndfl_looper_ambi: like sndfl_looper but with internal ambisonics
+encoding up to 8th order (needs ambi_encode.udo)
 
 ## Filter 

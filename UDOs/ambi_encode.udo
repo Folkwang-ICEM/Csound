@@ -200,9 +200,10 @@ opcode ambi_encode,a[],aikk
 	    aOutArr[80] = ic81*kcos_el_p8*kcos_8az*asnd
 
 	  end:
-
+	      
 	      xout aOutArr
 
 	      ; original by Martin Neukom
 	      ; edit by Philipp Neumann
+
 endop
