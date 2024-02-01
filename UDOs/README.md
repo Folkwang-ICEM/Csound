@@ -15,5 +15,6 @@ them. In udo_collection.udo you can find every udo of this repo.
 segments
 - sndfl_looper_ambi: like sndfl_looper but with internal ambisonics
 encoding up to 8th order (needs ambi_encode.udo)
-
+- sndfl_looper2_ambi: like sndfl_looper_ambi but with masking of
+individual segments
 ## Filter 
