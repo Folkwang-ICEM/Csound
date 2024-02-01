@@ -8,7 +8,7 @@ them. In udo_collection.udo you can find every udo of this repo.
 - ambi_encode: encode a mono signal up to 8th order ambisonics
 
 ## Synthesizer
-
+- sine_oct: a sine wave spectrum synthesizer, similiar to hsboscil opcode
 ## Instruments
 - sndfl_looper: flexible segment looping of soundfile	
 - sndfl_looper2: like sndfl_looper but with masking of individual
