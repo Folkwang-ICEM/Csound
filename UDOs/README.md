@@ -3,7 +3,8 @@ A directory for UDOs (file.udo) and examples (file.csd) how to use
 them. In udo_collection.udo you can find every udo of this repo.
 
 ## Utilities
-
+- ctrl_tbl: allows indexing of numeric data from a .txt file with
+optional interpolation of the data
 ## Ambisonic
 - ambi_encode: encode a mono signal up to 8th order ambisonics
 
