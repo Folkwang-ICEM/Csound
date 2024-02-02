@@ -207,3 +207,4 @@ opcode ambi_encode,a[],aikk
 	      ; edit by Philipp Neumann
 
 endop
+

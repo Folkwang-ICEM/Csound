@@ -10,12 +10,11 @@ nchnls = 2
 
 ;-----------------------------------------------------------
 #include "ambi_encode.udo" 
-
 #include "sndfl_looper2_ambi.udo"
 ;-----------------------------------------------------------
 instr 1
   ;; load soundfile
-  SndFl = "/Users/philippneumann/Desktop/klangschale-1.wav"
+  SndFl = "yourSndfl.wav"
 
   ;; parameter
   kSpeed = 1
@@ -35,7 +34,7 @@ instr 1
     SndFl,kSpeed,kLoopStart,kLoopSize,kStereoOffset,iWndwFt,kAzi,kAlti,kMaskArr,iOrder
 
   ;; rendering
-  fout "/Users/philippneumann/Desktop/sndfl_ambi_test.wav",-1,aOutputArr
+  fout "yourRenderFile.wav",-1,aOutputArr
   
 endin
 ;-----------------------------------------------------------

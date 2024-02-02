@@ -41,5 +41,7 @@ opcode sine_oct,a,kkk
   aSine balance aSine,aSig
   
   xout aSine
+  ;; by philipp von neumann
 endop
-;; by philipp von neumann
+
+

@@ -93,7 +93,7 @@ opcode sndfl_looper2_ambi,a[],Skkkkikkk[]i
     kMaskCount2 = kMaskCount2 % lenarray:i(kMaskArr2)
     aSig1 *= kMaskArr1[kMaskCount1]
     aSig2 *= kMaskArr2[kMaskCount2]
-    
+
     ;; spatialization
     aEncArr1[] init iAmbiChn
     aEncArr2[] init iAmbiChn
@@ -205,3 +205,5 @@ opcode sndfl_looper2_ambi,a[],Skkkkikkk[]i
 		  xout aOutArr
 ;; by philipp von neumann
 endop
+
+
