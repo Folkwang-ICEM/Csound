@@ -9,6 +9,7 @@ optional interpolation of the data
 - ambi_encode: encode a mono signal up to 8th order ambisonics
 
 ## Synthesizer
+- sine: sine wave made from sine function
 - sine_beatings: sine wave with rhythmic beatings
 - sine_oct: a sine wave spectrum synthesizer, similiar to hsboscil opcode
 ## Instruments
